@@ -1,0 +1,14 @@
+{
+    "customizations": {
+      "codespaces": {
+        "repositories": {
+          "the-path-forward/ZD2283663_submodule": {
+            "permissions": {
+              "issues": "write"
+            }
+          }
+        }
+      }
+    }
+  }
+  
